@@ -1,10 +1,10 @@
 {
   "name": "chatbot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "Index.JS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node Index.JS"
   },
   "repository": {
     "type": "git",
