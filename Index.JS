@@ -7,7 +7,7 @@ app.get("/",function(req,res){
     res.send('<h1>This is my web app2</h1>');
 });
 
-app.get("/",function(req,res){
+app.get("/something",function(req,res){
     res.send('<h1>This is something</h1>');
 });
 
